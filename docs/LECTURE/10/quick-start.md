@@ -87,7 +87,7 @@
 
 [Widget catalog](https://docs.flutter.dev/development/ui/widgets) 中包含了 `Flutter` 中常用的 `Widget`s 列表。
 
-犹豫 `Flutter` 中使用 `Material Design` 比较普遍，也推荐了解 [Material Design](https://m3.material.io/components) 中的常见 UI 组件。[Material 3 updates](https://docs.flutter.dev/development/ui/material3-updates) 这一篇也可以看一下。
+由于 `Flutter` 中使用 `Material Design` 比较普遍，也推荐了解 [Material Design](https://m3.material.io/components) 中的常见 UI 组件。[Material 3 updates](https://docs.flutter.dev/development/ui/material3-updates) 这一篇也可以看一下。
 
 ## 一些常见的实际案例
 
